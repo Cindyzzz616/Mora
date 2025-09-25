@@ -1,13 +1,9 @@
 # Mora: authentic language acquisition from user-generated short-form videos
-<div style="display: flex; align-items: center;">
-    <img src="you-jujube/src/assets/yuo.svg" alt="YouLingo Logo" style="height: 120px;" />
-    <img src="you-jujube/src/assets/youlingo.svg" alt="YouLingo Logo" style="height: 100px;" />
-</div>
 
-Many language learners struggle to find materials that align with both their  interests and proficiency level. YouLingo addresses this gap by leveraging the popularity and appeal of short-form videos, with premises of authentic materials, comprehensible input, and an emphasis on listening and speaking. It allows users to generate content in their native language and interact with target language videos made by others.Throughout stages of design, development, testing, and eventual commercialization, YouLingo translates evidence-based principles into a self-sustaining language exchange platform.
+Many language learners struggle to find materials that align with both their  interests and proficiency level. Mora (formerly YouLingo) addresses this gap by leveraging the popularity and appeal of short-form videos, with premises of authentic materials, comprehensible input, and an emphasis on listening and speaking. It allows users to generate content in their native language and interact with target language videos made by others. Throughout stages of design, development, testing, and eventual commercialization, Mora translates evidence-based principles into a self-sustaining language exchange platform.
 
 ## Contributors
-### UofTHacks team: the YouLinGOATs
+### UofTHacks team: the YouLinGoats
 - Adrien Mery
   - https://github.com/NOBODIDI
 - Rui Weng
@@ -33,40 +29,40 @@ Many language learners struggle to find materials that align with both their  in
 
 ## 1. About the Project
 
-This project was initially created for the UofTHacks 12 Hackathon and was the winner of Best University of Toronto Hack.
+This project was initially created as YouLingo for the UofTHacks 12 Hackathon and was the winner of Best University of Toronto Hack.
 
 The team's take on this year's theme, Perspective, is an application that takes a different look
 at media consumption beyond a form of entertainment, and challenges pre-conceived ideas about language learning - that it has to be confined to
-textbooks and classrooms. The result of this is YouLingo, a web application designed to help users learn new languages by making YouTube videos into 
+textbooks and classrooms. The result of this is Mora, a web application designed to help users learn new languages by making YouTube videos into 
 custom language lessons. Users can explore various videos, add their own video URLs, and manage their favorite videos.
 
 ### From Hackathon Idea to Research-Driven Innovation
 
-Since then, YouLingo has grown into a research-backed language learning project grounded in both theory and practice. In the summer of 2025, its conceptual foundation was developed through two parallel research programs that explored how to evaluate and modify the difficulty of videos for language learners—specifically focusing on what affects intelligibility, comprehensibility, and vocabulary retention.
+Since then, Mora has grown into a research-backed language learning project grounded in both theory and practice. In the summer of 2025, its conceptual foundation was developed through two parallel research programs that explored how to evaluate and modify the difficulty of videos for language learners—specifically focusing on what affects intelligibility, comprehensibility, and vocabulary retention.
 
 ### Dual Research Streams
 
 One research stream was funded by the University of Toronto Excellence Award ($7500) and supervised by Professor Lyn Tieu in the Department of French. This project focused on lexical-syntactic variables, including lexical coverage, vocabulary size, and pause structure.
 
-The second was part of the Research Opportunity Program at UTM, conducted under Professor Jessamyn Schertz in the Sounds of UTM Lab. Here, the focus shifted to acoustic-phonological variables such as speech rate, phonemic overlap, and phonological neighborhood density. Together, these studies built a rigorous theoretical model of video difficulty that directly informs YouLingo’s next phase.
+The second was part of the Research Opportunity Program at UTM, conducted under Professor Jessamyn Schertz in the Sounds of UTM Lab. Here, the focus shifted to acoustic-phonological variables such as speech rate, phonemic overlap, and phonological neighborhood density. Together, these studies built a rigorous theoretical model of video difficulty that directly informs Mora’s next phase.
 
 ### A Shift Toward User-Generated Short-Form Content
 
-Drawing from insights about learner engagement and current digital trends, YouLingo has pivoted toward a novel and, to our knowledge, unprecedented design in the language learning space: leveraging user-generated short-form videos, similar to those seen on platforms like TikTok or Instagram Reels. While many apps use pre-recorded content or scripted dialogues, no existing language learning app currently centers its experience around short-form videos created by users themselves. This approach harnesses the widespread popularity, accessibility, and entertainment value of short-form content, while embedding it directly into a pedagogical framework.
+Drawing from insights about learner engagement and current digital trends, Mora has pivoted toward a novel and, to our knowledge, unprecedented design in the language learning space: leveraging user-generated short-form videos, similar to those seen on platforms like TikTok or Instagram Reels. While many apps use pre-recorded content or scripted dialogues, no existing language learning app currently centers its experience around short-form videos created by users themselves. This approach harnesses the widespread popularity, accessibility, and entertainment value of short-form content, while embedding it directly into a pedagogical framework.
 
 In this model, users would record short videos in their native language—sharing personal stories, cultural insights, or everyday moments—and watch videos in their target language created by speakers of that language. This creates a mutual language exchange environment, where learners are not only passive recipients of curated input but active participants in a multilingual community. The design also encourages interaction through comment threads, enabling users to ask questions, clarify meaning, and build connections across linguistic boundaries. Altogether, the platform merges authentic input, peer-to-peer learning, and community-driven content—a combination that promises both pedagogical depth and high user engagement.
 
 ### Current Development with Roi Digital
 
-YouLingo is now moving from theory to practice. An MVP (Minimum Viable Product) is currently in development in partnership with [Roi Digital](https://roidigital.ca/), a Quebec-based software development company. The MVP will incorporate research insights on difficulty modeling and serve as a testing ground for new features and potential follow-up studies.
+Mora is now moving from theory to practice. An MVP (Minimum Viable Product) is currently in development in partnership with [Roi Digital](https://roidigital.ca/), a Quebec-based software development company. The MVP will incorporate research insights on difficulty modeling and serve as a testing ground for new features and potential follow-up studies.
 
 ### Public Showcase
 
-YouLingo’s summer research and MVP will be publicly showcased at the [Experiential Education Fair at the University of Toronto Mississauga](https://www.utm.utoronto.ca/experience/events/experiential-education-fair) on September 25, 2025, marking its first major milestone on the path from hackathon prototype to real-world application.
+Mora’s summer research and MVP will be publicly showcased at the [Experiential Education Fair at the University of Toronto Mississauga](https://www.utm.utoronto.ca/experience/events/experiential-education-fair) on September 25, 2025, marking its first major milestone on the path from hackathon prototype to real-world application.
 
 ### Looking Ahead: New Research and Engagement Tools
 
-Next steps include a follow-up study to further validate the difficulty model within the context of the app and to begin tackling YouLingo’s second core research question:
+Next steps include a follow-up study to further validate the difficulty model within the context of the app and to begin tackling Mora’s second core research question:
 “How do we facilitate language acquisition based on our materials?”
 This will involve the design of interactive practice and engagement features tailored to the cognitive and motivational needs of learners.
 
@@ -97,7 +93,7 @@ memorization of vocabulary lists. [2]
 These hypotheses have proven to be effective from their significant transformation of language instruction and successful results.
 
 ### Our Implementation
-YouLingo instantiates these hypotheses in concrete and innovative ways:
+Mora instantiates these hypotheses in concrete and innovative ways:
 1. It does not explicitly instruct users to learn and memorize grammar rules, conjugations and vocabulary lists. Instead, it provides
 users with natural input sourced from the wealth of videos on YouTube, which are created by real individuals in real-life contexts.
 This is similar to how a child picks up their native language from listening to conversations in their surroundings.
@@ -138,7 +134,7 @@ _NOTE: due to time constraints, some of these features have not been fully imple
 with the core features available for demonstration._
 
 ### User Database
-YouLingo allows users to input topics of interest as tags, and save videos as a list. It also stores a range of linguistic competency data for each user. This includes:
+Mora allows users to input topics of interest as tags, and save videos as a list. It also stores a range of linguistic competency data for each user. This includes:
 * Overall CEFR level: This is stored as a floating point number from 0.0 to 5.0, representing levels from A1 to C2. Upon sign-up, the user 
 * Lexicon: This is a list of the vocabulary that the user has accumulated from videos they have watched. Each word has an associated CEFR score, and the application keeps
 a tally of the number of times the user has encountered that word.
@@ -237,8 +233,8 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/YouLingo.git
-cd YouLingo/you-jujube
+git clone https://github.com/your-username/Mora.git
+cd Mora/you-jujube
 ```
 
 2. Install the dependencies for the frontend:
@@ -296,13 +292,13 @@ This application uses Auth0 for authentication. Make sure to configure your Auth
 There are some features we did not have time to implement, but we look forward to growing this project in the future!
 - Transcript highlighting: the transcript can be colour-coded according to the user's familiarity with the words, as well
 as words that are far beyond the user's current level. The same can be done with difficult sentence structures and
-grammatical formulations. Based on that, YouLingo will recommend parts of the video that the user should review and 
+grammatical formulations. Based on that, Mora will recommend parts of the video that the user should review and 
 parts that can be skipped over.
-- Review reminder: YouLingo can remind the user to re-watch the videos at scheduled intervals, using principles like
+- Review reminder: Mora can remind the user to re-watch the videos at scheduled intervals, using principles like
 the Ebbinghaus forgetting curve.
-- Connection to YouTube: for users who are willing, YouLingo can be linked to their YouTube account, so they get even more 
+- Connection to YouTube: for users who are willing, Mora can be linked to their YouTube account, so they get even more 
 personalized recommendations based on their watch history and behaviours.
-- Like YouTube, YouLingo can display the most-viewed segments when hovering over the progress bar.
+- Like YouTube, Mora can display the most-viewed segments when hovering over the progress bar.
 - There can be further AI integration for advanced features like stitching together lines from different videos to make
 custom materials, or generating audio/video scripts altogether.
 
