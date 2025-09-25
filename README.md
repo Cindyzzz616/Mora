@@ -1,4 +1,4 @@
-# YouLingo: authentic language acquisition from user-generated short-form videos
+# Mora: authentic language acquisition from user-generated short-form videos
 <div style="display: flex; align-items: center;">
     <img src="you-jujube/src/assets/yuo.svg" alt="YouLingo Logo" style="height: 120px;" />
     <img src="you-jujube/src/assets/youlingo.svg" alt="YouLingo Logo" style="height: 100px;" />
