@@ -51,7 +51,7 @@ Folders:
 ## TODOs
 
 - [x] fix language_code
-- [ ] fix syntax parsing (not super necessary though for the tiktok random sampling)
+- [x] fix syntax parsing (not super necessary though for the tiktok random sampling)
 - [x] add mean sentence length attribute 
 - [ ] (and other ones from here: [text](https://chatgpt.com/share/6899654a-fa3c-8010-b05f-924e6585c457))
 - [ ] add proximity of native language's language family to target language?

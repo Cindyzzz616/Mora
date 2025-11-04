@@ -72,8 +72,8 @@ def process_videos_in_folder(video_folder_path: str, audio_folder_path: str) -> 
 
 if __name__ == "__main__":
     # video = test_objects.video_etymology
-    # video = Video(path="video_analysis/sampled_videos_subset/6875323773755657474.mp4",
-    #               audio_folder="video_analysis/sampled_audios_subset")
+    video = Video(path="video_analysis/videos/etymology.mp4",
+                  audio_folder="video_analysis/audios")
     # user = test_objects.user
 
     # # Displaying video and user data
@@ -93,10 +93,10 @@ if __name__ == "__main__":
     # print(lexical_coverage(video, user))
 
     # Processing videos in a folder
-    video_subset = process_videos_in_folder("video_analysis/sampled_videos_subset", 
-                                            "video_analysis/sampled_audios_subset")
-    for video in video_subset:
-        print(video)
+    # video_subset = process_videos_in_folder("video_analysis/sampled_videos_subset", 
+    #                                         "video_analysis/sampled_audios_subset")
+    # for video in video_subset:
+    #     print(video)
 
     # Modifying videos and saving them as new files
     # adjust speech rate
