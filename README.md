@@ -13,7 +13,7 @@ Many language learners struggle to find materials that align with both their  in
 - Cindy Zhang
   - https://github.com/Cindyzzz616
 
-### Software development: Roi Digital
+### Software development: [Roi Digital](https://roidigital.ca/)
 - Nirdesh Shrestha
   - https://github.com/Nightking25
 - Shishir Shrestha
