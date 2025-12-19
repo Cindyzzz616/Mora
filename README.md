@@ -13,11 +13,16 @@ Many language learners struggle to find materials that align with both their  in
 - Cindy Zhang
   - https://github.com/Cindyzzz616
 
-### MVP building: Roi Digital
+### Software development: Roi Digital
 - Nirdesh Shrestha
   - https://github.com/Nightking25
 - Shishir Shrestha
   - https://github.com/sthz31
+ 
+### Research supervisors
+- Professor Lyn Tieu, Department of French at the University of Toronto
+- Professor Jessamyn Schertz, Department of Language Studies at the University of Toronto Mississauga
+
 
 ## Table of Contents
 1. [About the Project](#1-about-the-project)
@@ -56,15 +61,38 @@ In this model, users would record short videos in their native language—sharin
 
 Mora is now moving from theory to practice. An MVP (Minimum Viable Product) is currently in development in partnership with [Roi Digital](https://roidigital.ca/), a Quebec-based software development company. The MVP will incorporate research insights on difficulty modeling and serve as a testing ground for new features and potential follow-up studies.
 
-### Public Showcase
+### Public Showcases
 
-Mora’s summer research and MVP will be publicly showcased at the [Experiential Education Fair at the University of Toronto Mississauga](https://www.utm.utoronto.ca/experience/events/experiential-education-fair) on September 25, 2025, marking its first major milestone on the path from hackathon prototype to real-world application.
+Mora’s summer research and MVP were publicly showcased at the Experiential Education Fair at the University of Toronto Mississauga￼ on September 25, 2025. This event marked Mora’s first major milestone on its transition from a hackathon prototype to a research-driven, real-world application.
 
-### Looking Ahead: New Research and Engagement Tools
+Following this initial showcase, Mora was further developed and presented at ARIA 2025, where the team demonstrated a second iteration of the MVP. This version moved beyond content delivery to incorporate early active learning and engagement features, reflecting Mora’s shift from passive exposure toward facilitating acquisition within authentic short-form video contexts.
 
-Next steps include a follow-up study to further validate the difficulty model within the context of the app and to begin tackling Mora’s second core research question:
-“How do we facilitate language acquisition based on our materials?”
-This will involve the design of interactive practice and engagement features tailored to the cognitive and motivational needs of learners.
+Looking ahead, Mora will continue its research trajectory through the submission of an abstract to TULCON, with the goal of presenting new theoretical and empirical findings related to video difficulty, learner engagement, and language acquisition in user-generated media environments.
+
+### Looking Ahead: From Passive Input to Active Learning
+Mora is currently transitioning from a research phase centered on passive learning from authentic input to a new phase focused on the design and validation of active learning mechanisms within the platform.
+
+#### Wrapping Up Passive Learning Research
+
+Initial research and development have focused on understanding how short-form videos can be made accessible and effective for language learners through intelligent input selection and sequencing. This work includes:
+	•	Measurement of video difficulty using lexical, syntactic, and acoustic–phonological variables
+	•	Modeling learner proficiency and incremental progression over time
+	•	Development of recommendation logic to promote comprehensible, level-appropriate input
+
+Together, these components form Mora’s passive learning backbone: ensuring that learners are consistently exposed to content that is engaging, authentic, and within reach.
+
+#### Turning Toward Active Learning Design
+
+Building on this foundation, Mora is now shifting its primary focus toward facilitating learning beyond exposure. Upcoming work centers on the design and implementation of active learning features that integrate seamlessly with short-form video consumption, including:
+	•	Preview and review tasks to prime comprehension and reinforce learning
+	•	Structured repetition schedules to support retention and automatization
+	•	Quizzes and lightweight learning tasks that promote retrieval and deep processing
+
+These features are being designed to preserve the natural, immersive feel of short-form video while embedding opportunities for attention, practice, and reflection grounded in language acquisition research.
+
+#### Toward Launch and Ongoing Evaluation
+
+Alongside continued research and iteration, Mora is preparing for a public app launch planned for February. This launch will serve both as a product milestone and as a foundation for ongoing evaluation, enabling future studies on how passive input, active engagement, and community interaction jointly contribute to language acquisition over time.
 
 _The sections below pertain to the version of the application developed during UofTHacks._
 
